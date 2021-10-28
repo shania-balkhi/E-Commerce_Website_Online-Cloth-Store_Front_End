@@ -1,0 +1,14 @@
+/* The animation code */
+@keyframes logo {
+  
+    0% { transform: translatex(-500px) translatey(-500px) }
+    50% { transform: translatex(500px) translatey(500px); }
+    100% { transform: translatex(-500px) translatey(-500px) }
+}
+  
+  }
+
+  @keyframes homeC {
+    from {left: 0px;}
+    to {left: 500px;}
+  }
